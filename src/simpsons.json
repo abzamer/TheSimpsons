@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "name": "Maggie Simpson",
+        "name": "Dr. Nick Riviera",
         "image": ""
     },
     {
         "id": 2,
-        "name": "Maggie Simpson",
+        "name": "Ned Flanders",
         "image": ""
     },
     {
         "id": 3,
-        "name": "Maggie Simpson",
+        "name": "Allison Taylor",
         "image": ""
     },
     {
         "id": 4,
-        "name": "Maggie Simpson",
+        "name": "Mr. Burns",
         "image": ""
     },
     {
         "id": 5,
-        "name": "Maggie Simpson",
+        "name": "Groundskeeper Willie",
         "image": ""
     },
     {
         "id": 6,
-        "name": "Maggie Simpson",
+        "name": "Comic Book Guy",
         "image": ""
     },
     {
         "id": 7,
-        "name": "Maggie Simpson",
+        "name": "Edna Krabappel",
         "image": ""
     },
     {
         "id": 8,
-        "name": "Maggie Simpson",
+        "name": "Ralph Wiggum",
         "image": ""
     },
     {
         "id": 9,
-        "name": "Maggie Simpson",
+        "name": "Troy McClure",
         "image": ""
     },
     {
         "id": 10,
-        "name": "Maggie Simpson",
+        "name": "Krusty the Clown",
         "image": ""
     },
     {
         "id": 11,
-        "name": "Maggie Simpson",
+        "name": "Professor Frank",
         "image": ""
     },
     {
         "id": 12,
-        "name": "Maggie Simpson",
+        "name": "Disco Stu",
         "image": ""
     }
 ]
