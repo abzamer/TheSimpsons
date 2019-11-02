@@ -1,8 +1,10 @@
 import React from "react";
 import "./style.css";
 
-function NavBar (props) {
-    return <div className="navbar"> Score: 0 | Top Score: 0 </div>;
+function NavBar () {
+    return <div className="navbar">
+        <a href="https://github.com/abzamer/TheSimpsons">GitHub Repo</a>  
+        </div>;
 };
 
 export default NavBar;
