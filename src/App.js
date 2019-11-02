@@ -25,6 +25,8 @@ class App extends Component {
       id: "true"
     });
     console.log(this.state.id);
+    // TODO use this as a guide to set the state after being clicked
+
     // const friends = this.state.friends.filter(friend => friend.id !== id);
     // Set this.state.friends equal to the new friends array
     // this.setState({ friends });
