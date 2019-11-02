@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TheSimpsons/static/css/main.d86b1a21.chunk.css",
+    "main.js": "/TheSimpsons/static/js/main.8b773ff7.chunk.js",
+    "main.js.map": "/TheSimpsons/static/js/main.8b773ff7.chunk.js.map",
+    "runtime-main.js": "/TheSimpsons/static/js/runtime-main.883d4026.js",
+    "runtime-main.js.map": "/TheSimpsons/static/js/runtime-main.883d4026.js.map",
+    "static/js/2.0d9a0da0.chunk.js": "/TheSimpsons/static/js/2.0d9a0da0.chunk.js",
+    "static/js/2.0d9a0da0.chunk.js.map": "/TheSimpsons/static/js/2.0d9a0da0.chunk.js.map",
+    "index.html": "/TheSimpsons/index.html",
+    "precache-manifest.8c78344081b216d70d1466bd693bdea0.js": "/TheSimpsons/precache-manifest.8c78344081b216d70d1466bd693bdea0.js",
+    "service-worker.js": "/TheSimpsons/service-worker.js",
+    "static/css/main.d86b1a21.chunk.css.map": "/TheSimpsons/static/css/main.d86b1a21.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.883d4026.js",
+    "static/js/2.0d9a0da0.chunk.js",
+    "static/css/main.d86b1a21.chunk.css",
+    "static/js/main.8b773ff7.chunk.js"
+  ]
+}
